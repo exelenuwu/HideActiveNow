@@ -1,0 +1,15 @@
+/**
+ * @name Hide Active Now for Discord (HAND)
+ * @author exelen
+ * @authorId 476500263163658243
+ * @version 1
+ * @description A BetterDiscord theme for hiding/removing the "Active Now" tab on Discord.
+ * @source https://github.com/exelenuwu/HideActiveNow
+ * @website https://exelen.be/
+ * @invite DmmzuYVCXn
+ */
+
+ .nowPlayingColumn-1eCBCN {
+    display: none;
+    visibility: hidden;
+}
